@@ -28,7 +28,7 @@ Big Data University & IBM
 
 [Data Analysis with R](http://bigdatauniversity.com/bdu-wp/bdu-course/introduction-to-data-analysis-using-r/) : sponsored by BigData University
 
-####[Details can be found at IBM open Badge claim ](https://www.youracclaim.com/users/kuntal-ganguly) 
+####[Details can be found at IBM open badge claim ](https://www.youracclaim.com/users/kuntal-ganguly) 
 
 
 IBM
