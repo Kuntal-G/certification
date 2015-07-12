@@ -3,7 +3,7 @@
 EDX
 --------------------------
 
-[Introduction to Big Data using Spark => sponsored by Berkley University & Databricks](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x)
+[Introduction to Big Data using Spark](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x):sponsored by Berkley University & Databricks
 
 [Scalable Machine Learning  => sponsored by Berkley University & Databricks](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x )
 
