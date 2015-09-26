@@ -11,6 +11,7 @@ EDX
 
 [Introduction to Cloud Computing](https://www.edx.org/course/introduction-cloud-computing-ieeex-cloudintro-x) : sponsored by IEEE
 
+[Introduction to R](https://courses.edx.org/courses/course-v1:Microsoft+DAT203x+1T2016) : sponsored by Microsoft
 
 
 Coursera
