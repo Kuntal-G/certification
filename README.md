@@ -4,7 +4,7 @@
 Coursera
 ---------------------------
 
-[Machine Learning](https://www.coursera.org/learn/machine-learning/home/info) : sponsored by Standford University with Prof. Andrew  Ng
+[Machine Learning](https://www.coursera.org/learn/machine-learning/home/info) : sponsored by Stanford University with Prof. Andrew  Ng
 
 
 
