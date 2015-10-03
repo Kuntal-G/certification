@@ -1,5 +1,14 @@
 #Certification and Achievements
 
+
+Coursera
+---------------------------
+
+[Machine Learning](https://www.coursera.org/learn/machine-learning/home/info) : sponsored by Standford University with Prof. Andrew  Ng
+
+
+
+
 EDX
 --------------------------
 
@@ -15,13 +24,9 @@ EDX
 
 [Data Science and Machine Learning Essentials](https://www.edx.org/course/data-science-machine-learning-essentials-microsoft-dat203x) : sponsored by Microsoft
 
-Coursera
----------------------------
-
-[Machine Learning](https://www.coursera.org/learn/machine-learning/home/info) : sponsored by Standford University with Prof. Andrew  Ng
 
 
-Big Data University & IBM
+Big Data University 
 --------------------------
 
 [Apache Spark Fundamental](http://bigdatauniversity.com/bdu-wp/bdu-course/spark-fundamentals/) : sponsored by BigData University
