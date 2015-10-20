@@ -6,7 +6,7 @@ Coursera
 
 [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info) : sponsored by Stanford University with Prof. Andrew  Ng
 
-
+[Machine Learning Foundation-Case Study](https://www.coursera.org/learn/ml-foundations/) : sponsored by University of Washington and Dato(GraphLab)
 
 
 EDX
