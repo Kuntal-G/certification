@@ -8,6 +8,9 @@ Coursera
 
 [Machine Learning Foundation-Case Study](https://www.coursera.org/learn/ml-foundations/) : sponsored by University of Washington and Dato(GraphLab)
 
+[Customer Analytics](https://www.coursera.org/learn/wharton-customer-analytics/) : sponsored by Wharton School of the University of Pennsylvania
+
+
 
 EDX
 --------------------------
