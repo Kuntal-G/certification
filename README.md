@@ -6,7 +6,7 @@ Coursera
 
 [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info) : sponsored by Stanford University with Prof. Andrew  Ng
 
-[Machine Learning Foundation-Case Study](https://www.coursera.org/learn/ml-foundations/) : sponsored by University of Washington and Dato(GraphLab)
+[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning) : sponsored by University of Washington and Dato(GraphLab) with Prof. Emily Fox and Carlos Guestrin
 
 [Customer Analytics](https://www.coursera.org/learn/wharton-customer-analytics/) : sponsored by Wharton School of the University of Pennsylvania
 
