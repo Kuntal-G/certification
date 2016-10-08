@@ -8,12 +8,16 @@ Coursera
 
 [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning) : sponsored by University of Washington and Dato(GraphLab) with Prof. Emily Fox and Carlos Guestrin
 
+[Statistics Specialization](https://www.coursera.org/specializations/statistics) : sponsored by Duke University with Prof. Mine Çetinkaya-Rundel, David Banks and Merlise A Clyde
+
 [Customer Analytics](https://www.coursera.org/learn/wharton-customer-analytics/) : sponsored by Wharton School of the University of Pennsylvania
 
 
 
 EDX
 --------------------------
+
+[Artificial Intelligence MicroMaster] (https://www.edx.org/micromasters/columbiax-artificial-intelligence) : sponsored by Columbia University
 
 [Introduction to Big Data using Spark](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x) : sponsored by Berkley University & Databricks
 
