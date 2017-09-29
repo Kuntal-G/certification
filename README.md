@@ -1,4 +1,4 @@
-#Certification and Badge
+# Certification and Badge
 
 
 Coursera
@@ -16,8 +16,6 @@ Coursera
 
 EDX
 --------------------------
-
-[Artificial Intelligence MicroMaster] (https://www.edx.org/micromasters/columbiax-artificial-intelligence) : sponsored by Columbia University
 
 [Introduction to Big Data using Spark](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x) : sponsored by Berkley University & Databricks
 
