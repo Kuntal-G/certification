@@ -3,6 +3,7 @@
 
 Coursera
 ---------------------------
+[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) : sponsored by NVIDIA and DeepLearning.ai
 
 [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info) : sponsored by Stanford University with Prof. Andrew  Ng
 
