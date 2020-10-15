@@ -5,6 +5,8 @@ Coursera
 ---------------------------
 [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) : sponsored by NVIDIA and DeepLearning.ai
 
+[Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) : sponsored by  DeepLearning.ai
+
 [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info) : sponsored by Stanford University with Prof. Andrew  Ng
 
 [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning) : sponsored by University of Washington and Dato(GraphLab) with Prof. Emily Fox and Carlos Guestrin
